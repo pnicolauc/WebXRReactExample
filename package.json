@@ -10,7 +10,10 @@
   "dependencies": {
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-three-fiber": "4.2.10",
+    "react-xr": "1.0.6",
+    "three": "0.117.1"
   },
   "devDependencies": {
     "typescript": "3.8.3"
