@@ -1,2 +1,0 @@
-# WebXRReactExample
-Created with CodeSandbox
